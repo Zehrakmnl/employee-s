@@ -1,6 +1,9 @@
-Hii 
-This is my php website that I use for employee description and registration.
+# Employee List PHP
 
-there are two screen from site.
-<img src="[https://github.com/Zehrakmnl/employeeListPHP/blob/main/img/addPage.png]">
-<img src="[https://github.com/Zehrakmnl/employeeListPHP/blob/main/img/listPage.png]">
+Hii  
+This is my PHP website that I use for employee description and registration.
+
+There are two screens from the site:
+
+![Add Page](https://github.com/Zehrakmnl/employeeListPHP/blob/main/img/addPage.png)
+![List Page](https://github.com/Zehrakmnl/employeeListPHP/blob/main/img/listPage.png)
